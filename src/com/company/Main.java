@@ -44,9 +44,11 @@ public class Main {
 
         return age2;
 
+
+
     }
 
-
+    int a = 12;
     public static String doWeWalk() {
 
         return "Можно ли идти гулять";
